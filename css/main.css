@@ -1,0 +1,15 @@
+body {
+  font-family: Palatino;
+}
+
+tc {
+  padding: 2em;
+}
+
+th {
+  padding: 2em;
+}
+
+#reading-list {
+  padding: 2em;
+}
